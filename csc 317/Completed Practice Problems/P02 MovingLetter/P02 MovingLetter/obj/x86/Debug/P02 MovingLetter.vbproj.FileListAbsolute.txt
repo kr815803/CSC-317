@@ -1,0 +1,27 @@
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\P02 MovingLetter\P02 MovingLetter\bin\Debug\P02 MovingLetter.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\P02 MovingLetter\P02 MovingLetter\bin\Debug\P02 MovingLetter.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\P02 MovingLetter\P02 MovingLetter\bin\Debug\P02 MovingLetter.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\MovingLetter.Form1.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\MovingLetter.Resources.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P02 MovingLetter\P02 MovingLetter\bin\Debug\P02 MovingLetter.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P02 MovingLetter\P02 MovingLetter\bin\Debug\P02 MovingLetter.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P02 MovingLetter\P02 MovingLetter\bin\Debug\P02 MovingLetter.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\MovingLetter.Form1.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\MovingLetter.Resources.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.pdb
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\bin\Debug\P02 MovingLetter.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\bin\Debug\P02 MovingLetter.pdb
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\bin\Debug\P02 MovingLetter.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\MovingLetter.Form1.resources
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\MovingLetter.Resources.resources
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Debug\P02 MovingLetter.vbproj.GenerateResource.Cache

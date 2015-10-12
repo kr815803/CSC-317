@@ -1,0 +1,23 @@
+E:\csc 317\P13Pictures\P13Pictures\bin\Debug\P13Pictures.exe
+E:\csc 317\P13Pictures\P13Pictures\bin\Debug\P13Pictures.pdb
+E:\csc 317\P13Pictures\P13Pictures\bin\Debug\P13Pictures.xml
+E:\csc 317\P13Pictures\P13Pictures\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\csc 317\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.Form1.resources
+E:\csc 317\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.Resources.resources
+E:\csc 317\P13Pictures\P13Pictures\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\csc 317\P13Pictures\P13Pictures\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\csc 317\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.exe
+E:\csc 317\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.xml
+E:\csc 317\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P13Pictures\P13Pictures\bin\Debug\P13Pictures.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P13Pictures\P13Pictures\bin\Debug\P13Pictures.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P13Pictures\P13Pictures\bin\Debug\P13Pictures.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.Form1.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.Resources.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P13Pictures\P13Pictures\obj\x86\Debug\P13Pictures.pdb

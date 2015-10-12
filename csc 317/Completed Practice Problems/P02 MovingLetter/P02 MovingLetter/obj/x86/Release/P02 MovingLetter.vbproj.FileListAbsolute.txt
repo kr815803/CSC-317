@@ -1,0 +1,9 @@
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\bin\Release\P02 MovingLetter.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\bin\Release\P02 MovingLetter.pdb
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\bin\Release\P02 MovingLetter.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Release\MovingLetter.Form1.resources
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Release\MovingLetter.Resources.resources
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Release\P02 MovingLetter.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Release\P02 MovingLetter.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Release\P02 MovingLetter.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P02 MovingLetter\P02 MovingLetter\obj\x86\Release\P02 MovingLetter.pdb

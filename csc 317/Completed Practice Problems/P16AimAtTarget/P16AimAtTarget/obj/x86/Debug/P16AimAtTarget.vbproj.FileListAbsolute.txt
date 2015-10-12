@@ -1,0 +1,21 @@
+C:\Users\Kelsey\AppData\Local\Temporary Projects\P16AimAtTarget\bin\Debug\P16AimAtTarget.exe
+C:\Users\Kelsey\AppData\Local\Temporary Projects\P16AimAtTarget\bin\Debug\P16AimAtTarget.pdb
+C:\Users\Kelsey\AppData\Local\Temporary Projects\P16AimAtTarget\bin\Debug\P16AimAtTarget.xml
+C:\Users\Kelsey\AppData\Local\Temporary Projects\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.Form1.resources
+C:\Users\Kelsey\AppData\Local\Temporary Projects\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.Resources.resources
+C:\Users\Kelsey\AppData\Local\Temporary Projects\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\AppData\Local\Temporary Projects\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.exe
+C:\Users\Kelsey\AppData\Local\Temporary Projects\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.xml
+C:\Users\Kelsey\AppData\Local\Temporary Projects\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P16AimAtTarget\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P16AimAtTarget\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P16AimAtTarget\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P16AimAtTarget\P16AimAtTarget\bin\Debug\P16AimAtTarget.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P16AimAtTarget\P16AimAtTarget\bin\Debug\P16AimAtTarget.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P16AimAtTarget\P16AimAtTarget\bin\Debug\P16AimAtTarget.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P16AimAtTarget\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.Form1.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P16AimAtTarget\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.Resources.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P16AimAtTarget\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P16AimAtTarget\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P16AimAtTarget\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P16AimAtTarget\P16AimAtTarget\obj\x86\Debug\P16AimAtTarget.pdb

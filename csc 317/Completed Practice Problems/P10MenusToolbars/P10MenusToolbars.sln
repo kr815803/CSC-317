@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "P10MenusToolbars", "P10MenusToolbars\P10MenusToolbars.vbproj", "{8728E685-27E8-4244-B6AB-40C3C855B592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8728E685-27E8-4244-B6AB-40C3C855B592}.Debug|x86.ActiveCfg = Debug|x86
+		{8728E685-27E8-4244-B6AB-40C3C855B592}.Debug|x86.Build.0 = Debug|x86
+		{8728E685-27E8-4244-B6AB-40C3C855B592}.Release|x86.ActiveCfg = Release|x86
+		{8728E685-27E8-4244-B6AB-40C3C855B592}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

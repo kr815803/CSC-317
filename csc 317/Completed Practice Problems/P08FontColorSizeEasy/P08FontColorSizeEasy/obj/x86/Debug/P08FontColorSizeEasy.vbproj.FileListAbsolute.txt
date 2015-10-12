@@ -1,0 +1,23 @@
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\bin\Debug\P08FontColorSizeEasy.exe
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\bin\Debug\P08FontColorSizeEasy.pdb
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\bin\Debug\P08FontColorSizeEasy.xml
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.Form1.resources
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.Resources.resources
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.exe
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.xml
+E:\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P08FontColorSizeEasy\P08FontColorSizeEasy\bin\Debug\P08FontColorSizeEasy.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P08FontColorSizeEasy\P08FontColorSizeEasy\bin\Debug\P08FontColorSizeEasy.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P08FontColorSizeEasy\P08FontColorSizeEasy\bin\Debug\P08FontColorSizeEasy.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.Form1.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.Resources.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P08FontColorSizeEasy\P08FontColorSizeEasy\obj\x86\Debug\P08FontColorSizeEasy.pdb

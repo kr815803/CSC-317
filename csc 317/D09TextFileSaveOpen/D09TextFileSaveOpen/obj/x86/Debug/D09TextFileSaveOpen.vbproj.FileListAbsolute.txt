@@ -1,0 +1,11 @@
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\bin\Debug\D09TextFileSaveOpen.exe
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\bin\Debug\D09TextFileSaveOpen.pdb
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\bin\Debug\D09TextFileSaveOpen.xml
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\obj\x86\Debug\D09TextFileSaveOpen.Form1.resources
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\obj\x86\Debug\D09TextFileSaveOpen.Resources.resources
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\obj\x86\Debug\D09TextFileSaveOpen.exe
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\obj\x86\Debug\D09TextFileSaveOpen.xml
+E:\csc 317\D09TextFileSaveOpen\D09TextFileSaveOpen\obj\x86\Debug\D09TextFileSaveOpen.pdb

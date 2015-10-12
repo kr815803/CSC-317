@@ -1,0 +1,34 @@
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\bin\Debug\P09TextAndImageFiles.exe
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\bin\Debug\P09TextAndImageFiles.pdb
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\bin\Debug\P09TextAndImageFiles.xml
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.Form1.resources
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.Resources.resources
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.exe
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.xml
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.pdb
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.exe
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.xml
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.pdb
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\bin\Debug\P09TextAndImageFiles.exe
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\bin\Debug\P09TextAndImageFiles.pdb
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\bin\Debug\P09TextAndImageFiles.xml
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.Form1.resources
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.Resources.resources
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\csc 317\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P09TextAndImageFiles\P09TextAndImageFiles\bin\Debug\P09TextAndImageFiles.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P09TextAndImageFiles\P09TextAndImageFiles\bin\Debug\P09TextAndImageFiles.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P09TextAndImageFiles\P09TextAndImageFiles\bin\Debug\P09TextAndImageFiles.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.Form1.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.Resources.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P09TextAndImageFiles\P09TextAndImageFiles\obj\x86\Debug\P09TextAndImageFiles.pdb

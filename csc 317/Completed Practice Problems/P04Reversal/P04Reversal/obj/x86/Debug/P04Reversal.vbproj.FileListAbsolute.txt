@@ -1,0 +1,12 @@
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P04Reversal\P04Reversal\bin\Debug\P04Reversal.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P04Reversal\P04Reversal\bin\Debug\P04Reversal.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P04Reversal\P04Reversal\bin\Debug\P04Reversal.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P04Reversal\P04Reversal\obj\x86\Debug\P04Reversal.Form1.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P04Reversal\P04Reversal\obj\x86\Debug\P04Reversal.Resources.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P04Reversal\P04Reversal\obj\x86\Debug\P04Reversal.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P04Reversal\P04Reversal\obj\x86\Debug\P04Reversal.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P04Reversal\P04Reversal\obj\x86\Debug\P04Reversal.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P04Reversal\P04Reversal\obj\x86\Debug\P04Reversal.pdb
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P04Reversal\P04Reversal\obj\x86\Debug\P04Reversal.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P04Reversal\P04Reversal\obj\x86\Debug\P04Reversal.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P04Reversal\P04Reversal\obj\x86\Debug\P04Reversal.pdb

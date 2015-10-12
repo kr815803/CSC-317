@@ -1,0 +1,21 @@
+E:\csc 317\P12JPegList\P12JPegList\bin\Debug\P12JPegList.exe
+E:\csc 317\P12JPegList\P12JPegList\bin\Debug\P12JPegList.pdb
+E:\csc 317\P12JPegList\P12JPegList\bin\Debug\P12JPegList.xml
+E:\csc 317\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.Form1.resources
+E:\csc 317\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.Resources.resources
+E:\csc 317\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.exe
+E:\csc 317\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.xml
+E:\csc 317\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.pdb
+E:\csc 317\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P12JPegList\P12JPegList\bin\Debug\P12JPegList.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P12JPegList\P12JPegList\bin\Debug\P12JPegList.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P12JPegList\P12JPegList\bin\Debug\P12JPegList.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.Form1.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.Resources.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P12JPegList\P12JPegList\obj\x86\Debug\P12JPegList.pdb

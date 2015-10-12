@@ -1,0 +1,34 @@
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\bin\Debug\P10MenusToolbars.exe
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\bin\Debug\P10MenusToolbars.pdb
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\bin\Debug\P10MenusToolbars.xml
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.Form1.resources
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.Resources.resources
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.exe
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.xml
+C:\Users\75KR815803\AppData\Local\Temporary Projects\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.pdb
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.exe
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.xml
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.pdb
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\bin\Debug\P10MenusToolbars.exe
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\bin\Debug\P10MenusToolbars.pdb
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\bin\Debug\P10MenusToolbars.xml
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.Form1.resources
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.Resources.resources
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\csc 317\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P10MenusToolbars\P10MenusToolbars\bin\Debug\P10MenusToolbars.exe
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P10MenusToolbars\P10MenusToolbars\bin\Debug\P10MenusToolbars.pdb
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P10MenusToolbars\P10MenusToolbars\bin\Debug\P10MenusToolbars.xml
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.Form1.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.Resources.resources
+C:\Users\Kelsey\Desktop\CSC317 Daily Downloads\Demos\Completed\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.exe
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.xml
+C:\Users\Kelsey\Desktop\Completed Practice Problems\P10MenusToolbars\P10MenusToolbars\obj\x86\Debug\P10MenusToolbars.pdb

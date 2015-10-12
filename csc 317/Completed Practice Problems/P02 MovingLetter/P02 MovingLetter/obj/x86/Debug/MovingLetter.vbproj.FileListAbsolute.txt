@@ -1,0 +1,9 @@
+C:\Users\Kelsey\AppData\Local\Temporary Projects\MovingLetter\bin\Debug\MovingLetter.exe
+C:\Users\Kelsey\AppData\Local\Temporary Projects\MovingLetter\bin\Debug\MovingLetter.pdb
+C:\Users\Kelsey\AppData\Local\Temporary Projects\MovingLetter\bin\Debug\MovingLetter.xml
+C:\Users\Kelsey\AppData\Local\Temporary Projects\MovingLetter\obj\x86\Debug\MovingLetter.Form1.resources
+C:\Users\Kelsey\AppData\Local\Temporary Projects\MovingLetter\obj\x86\Debug\MovingLetter.Resources.resources
+C:\Users\Kelsey\AppData\Local\Temporary Projects\MovingLetter\obj\x86\Debug\MovingLetter.vbproj.GenerateResource.Cache
+C:\Users\Kelsey\AppData\Local\Temporary Projects\MovingLetter\obj\x86\Debug\MovingLetter.exe
+C:\Users\Kelsey\AppData\Local\Temporary Projects\MovingLetter\obj\x86\Debug\MovingLetter.xml
+C:\Users\Kelsey\AppData\Local\Temporary Projects\MovingLetter\obj\x86\Debug\MovingLetter.pdb
